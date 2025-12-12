@@ -1,0 +1,1 @@
+./download ftp://rcom:rcom@ftp.netlab.fe.up.pt/pub/ubuntu-24.04.2-desktop-amd64.iso
